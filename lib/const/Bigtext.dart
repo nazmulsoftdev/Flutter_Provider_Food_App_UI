@@ -1,0 +1,3 @@
+class BigText{
+  static const bigText1 = "As part of Last Meal on Earth: The End of Eating, our weeklong package dedicated to food, we wanted to establish, once and for all, the absolute best fast-food items in America. The 'Ringer' staff participated in a two-step vote—first establishing more than 100 nominees, then holding a general election. (Condiments were disqualified from contention.) Below you'll find our final results. We're prepared for your complaints.";
+}
